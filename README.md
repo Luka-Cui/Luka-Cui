@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+HI,My name is Luka. I am from China and my Chinese name is Bingyu Cui. 
+I am happy to study python!!!
 <!--
 **Luka-Cui/Luka-Cui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
